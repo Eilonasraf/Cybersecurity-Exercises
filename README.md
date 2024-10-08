@@ -45,9 +45,11 @@ Make sure you have the following installed:
 
 ## Running Tests
 
-1. **Some projects include test cases that can be run using Go’s built-in testing framework. Example for hash_sha256_blockbyblock:**:
+1. **Some projects include test cases that can be run using Go’s built-in testing framework. Example for hash_sha256_blockbyblock:**
    ```bash
    cd hashing/hash_sha256_blockbyblock
    go test
+
+### License
 
 **This project is licensed under the MIT License.**
