@@ -50,6 +50,6 @@ Make sure you have the following installed:
    cd hashing/hash_sha256_blockbyblock
    go test
 
-### License
+## License
 
 **This project is licensed under the MIT License.**
